@@ -11,7 +11,7 @@ Constraints: <br>
 &nbsp; 2. At crossroads, the flow must take one of the two possible paths (binary constraint) <br>
 
 ### Solution
-***MINLP***
+***MINLP*** <br>
 Best known objective value: 30 <br>
 Optimal solution values: <br>
 |  Variables | f1 | f2 | f3 | f4 | f5 | f6 | f7 | y | z |
